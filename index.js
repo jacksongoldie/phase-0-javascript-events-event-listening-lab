@@ -1,3 +1,4 @@
+//using a function to add an event listener, then calling the function
 function addingEventListener() {
     const input = document.getElementById('input');
 
